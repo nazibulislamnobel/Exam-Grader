@@ -1,0 +1,8 @@
+Sorry, you did not pass the exam
+You answered 4 questions correctly and 6 questions incorrectly
+The numbers of the questions you answered correctly are: 1 4 9 10 
+The numbers of the questions you answered incorrectly are: 2 3 5 6 7 8
+Congratulations!! You passed the exam
+You answered 8 questions correctly and 2 questions incorrectly
+The numbers of the questions you answered correctly are: 1 2 3 4 7 8 9 10 
+The numbers of the questions you answered incorrectly are: 5 6
